@@ -80,7 +80,8 @@ Open and run the `personality_model.ipynb` notebook to:
 
 ## 📈 Example
 
-![Screenshot](screenshot.png) _(Add yours here)_
+![Screenshot](screenshot.png) _(<img width="1280" height="737" alt="image" src="https://github.com/user-attachments/assets/bb915347-824a-4f10-b83c-12439c235b22" />
+)_
 
 ---
 
